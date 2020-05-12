@@ -9,7 +9,8 @@ setting up *pype* for controlling the servo motor:
     2. connect the arduino to your computer
     3. upload the 'StandardFirmata' program (as it can be found in the standard example files or [here](https://github.com/firmata/arduino/blob/master/examples/StandardFirmata/StandardFirmata.ino))
     4. load python interpreter and use pype:
-    ```python3
+
+    ```python
     from pype import pipes
     from mu.mel import mel
 
