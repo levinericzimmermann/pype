@@ -7,7 +7,7 @@ mu == 0.0.2
 
 # build/lib/pype/servos.py: 5
 # pype/servos.py: 6
-numpy == 1.13.3
+numpy == 1.22.0
 
 # build/lib/pype/servos.py: 9
 # pype/servos.py: 10
